@@ -45,3 +45,5 @@ vendors:
   rev: 8e0aa688b654ef28caa72506fa5ec8dba9fc7690
 - path: google.golang.org/appengine
   rev: 24e4144ec923c2374f6b06610c0df16a9222c3d9
+- name: OSSF Scorecard action
+  uses: ossf/scorecard-action@v2.0.3
